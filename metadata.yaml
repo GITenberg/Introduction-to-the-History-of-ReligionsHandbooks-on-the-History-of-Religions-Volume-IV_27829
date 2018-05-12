@@ -1,0 +1,38 @@
+_repo: Introduction-to-the-History-of-ReligionsHandbooks-on-the-History-of-Religions-Volume-IV_27829
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Toy, Crawford Howell
+    birthdate: 1836
+    deathdate: 1919
+    gutenberg_agent_id: '32933'
+    url: http://www.gutenberg.org/2009/agents/32933
+  editor:
+    agent_name: Jastrow, Morris
+    birthdate: 1861
+    deathdate: 1921
+    gutenberg_agent_id: '8227'
+    url: http://www.gutenberg.org/2009/agents/8227
+    wikipedia: http://en.wikipedia.org/wiki/Morris_Jastrow,_Jr.
+description: ''
+gutenberg_issued: '2009-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27829'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religion -- History'
+- !lcsh 'Rites and ceremonies'
+- !lcsh 'Religions -- History'
+- !lcc 'BL'
+- !lcsh 'Mythology'
+title: 'Introduction to the History of Religions
+
+  Handbooks on the History of Religions, Volume IV'
+url: http://www.gutenberg.org/ebooks/27829
